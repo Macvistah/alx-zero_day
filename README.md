@@ -1,1 +1,1 @@
-My first readme
+Glad to learn something new
